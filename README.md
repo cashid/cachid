@@ -1,1 +1,1 @@
-# cachid
+# CashID proposed standard
